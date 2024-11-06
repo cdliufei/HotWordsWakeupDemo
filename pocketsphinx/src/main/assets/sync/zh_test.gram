@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar zh_test;
+
+public <zh_test> = 你好中天;
